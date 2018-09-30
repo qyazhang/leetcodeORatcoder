@@ -1,3 +1,5 @@
+package CompanyContest;
+
 import java.util.Scanner;
 
 public class indeed1 {

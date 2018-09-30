@@ -1,6 +1,4 @@
-package leetcodeContest0902;
-
-import java.util.ArrayList;
+package leetcode.leetcodeContest0902;
 
 public class test1 {
 

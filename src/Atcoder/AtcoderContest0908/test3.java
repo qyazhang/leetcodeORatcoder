@@ -1,5 +1,5 @@
 
-package AtcoderContest0908;
+package Atcoder.AtcoderContest0908;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

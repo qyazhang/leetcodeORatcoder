@@ -1,5 +1,5 @@
 
-package Contest98;
+package leetcode.leetcodeContest98;
 
 import java.util.Arrays;
 

@@ -2,8 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6427fff4-9788-46c3-8785-2ffcc7740597" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/AtcoderContest0901/test2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/AtcoderContest0908/test1.class" afterPath="$PROJECT_DIR$/out/production/leetcode/AtcoderContest0908/test1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/AtcoderContest0908/test2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Contest102/TreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Contest102/test1$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Contest102/test1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Contest102/test2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Contest102/test3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Contest102/test4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Contest98/test1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Contest98/test2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Contest98/test4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/CompanyContest/google1.java" afterPath="$PROJECT_DIR$/src/CompanyContest/google1.java" />
+      <change beforePath="$PROJECT_DIR$/src/CompanyContest/google2.java" afterPath="$PROJECT_DIR$/src/CompanyContest/google2.java" />
+      <change beforePath="$PROJECT_DIR$/src/CompanyContest/indeed1.java" afterPath="$PROJECT_DIR$/src/CompanyContest/indeed1.java" />
+      <change beforePath="$PROJECT_DIR$/src/CompanyContest/indeed2.java" afterPath="$PROJECT_DIR$/src/CompanyContest/indeed2.java" />
+      <change beforePath="$PROJECT_DIR$/src/CompanyContest/indeed3.java" afterPath="$PROJECT_DIR$/src/CompanyContest/indeed3.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0721/task2-test-input.txt" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0721/task2-test-input.txt" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0721/test1.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0721/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0721/test2.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0721/test2.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0721/test3.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0721/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0721/test4.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0721/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0805/task2-test-input.txt" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/task2-test-input.txt" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0805/test1.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0805/test2.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test2.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0805/test3.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0805/test4.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0901/test1.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0901/test3.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0901/test4.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0908/test1.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0908/test3.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0908/test4.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0929/test1.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0929/test3.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/atcoder/AtcoderContest0929/test4.java" afterPath="$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest/test2.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest/test2.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test1.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test2.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test2.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test3.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test4.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test1.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test2.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test2.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test3.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test4.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test1.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test2.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test2.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test3.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test4.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/TreeNode.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/TreeNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test1.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test2.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test2.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test3.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test4.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest102/TreeNode.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest102/TreeNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest102/test1.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest102/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest102/test3.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest102/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest102/test4.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest102/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest103/test1.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest103/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest103/test3.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest103/test3.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest103/test4.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest103/test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest98/test1.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest98/test1.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodeContest98/test4.java" afterPath="$PROJECT_DIR$/src/leetcode/leetcodeContest98/test4.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +77,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AtcoderContest0929/test3.java">
+      <file leaf-file-name="test4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,51 +99,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AtcoderContest0929/test4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AtcoderContest0929/test2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input.txt">
+      <file leaf-file-name="test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,44 +216,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AtcoderContest0901/input.txt" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0908/AtcoderContest0901/test1.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0908/AtcoderContest0901/test2.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0908/AtcoderContest0901/test3.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0908/AtcoderContest0901/test4.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0916/AtcoderContest0908/test1.java" />
-        <option value="$PROJECT_DIR$/src/Contest102/Contest98/test1.java" />
-        <option value="$PROJECT_DIR$/src/Contest102/test4.java" />
-        <option value="$PROJECT_DIR$/src/Contest102/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0901/test1.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0901/test2.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0901/test3.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0901/test4.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0908/test1.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0908/test2.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0908/test3.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0908/test4.java" />
-        <option value="$PROJECT_DIR$/src/Contest98/test1.java" />
-        <option value="$PROJECT_DIR$/src/Contest98/test2.java" />
-        <option value="$PROJECT_DIR$/src/Contest98/test4.java" />
-        <option value="$PROJECT_DIR$/src/Contest98/test3.java" />
-        <option value="$PROJECT_DIR$/src/Contest98/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/Contest102/test1.java" />
-        <option value="$PROJECT_DIR$/src/Contest102/test2.java" />
-        <option value="$PROJECT_DIR$/src/Contest102/test3.java" />
-        <option value="$PROJECT_DIR$/src/Contest103/Contest102/test2.java" />
-        <option value="$PROJECT_DIR$/src/Contest103/test1.java" />
-        <option value="$PROJECT_DIR$/src/Contest103/test3.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0929/AtcoderContest0908/test4.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0929/test4.java" />
-        <option value="$PROJECT_DIR$/src/Contest103/test2.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0929/test1.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0929/test2.java" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0929/test32.java" />
-        <option value="$PROJECT_DIR$/input.txt" />
-        <option value="$PROJECT_DIR$/src/AtcoderContest0929/test3.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0930/leetcodeContest0902/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0930/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0930/test1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0930/test2.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0930/test3.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0930/test4.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test2.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest98/test4.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest98/test1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest102/test1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest102/test3.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest102/test4.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest102/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest103/test1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest103/test3.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest103/test4.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test2.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test3.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test4.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test2.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test3.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test4.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test2.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test3.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test4.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test3.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test4.java" />
+        <option value="$PROJECT_DIR$/src/CompanyContest/google2.java" />
+        <option value="$PROJECT_DIR$/src/CompanyContest/google1.java" />
+        <option value="$PROJECT_DIR$/src/CompanyContest/indeed1.java" />
+        <option value="$PROJECT_DIR$/src/CompanyContest/indeed2.java" />
+        <option value="$PROJECT_DIR$/src/CompanyContest/indeed3.java" />
+        <option value="$PROJECT_DIR$/src/atcoder/AtcoderContest0721/test1.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test1.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test2.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test3.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test4.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test1.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test3.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test4.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test1.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test3.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test4.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test1.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test3.java" />
+        <option value="$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test4.java" />
       </list>
     </option>
   </component>
@@ -164,6 +279,9 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -193,18 +311,7 @@
             <path>
               <item name="leetcodeORatcoder" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodeORatcoder" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcodeORatcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcodeORatcoder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcodeORatcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcodeORatcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AtcoderContest0929" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,26 +324,31 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="typescript.add.imports.on.the.completion" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/AtcoderContest0929" />
-      <recent name="$PROJECT_DIR$/src/Contest103" />
-      <recent name="$PROJECT_DIR$/src/Contest102" />
-      <recent name="$PROJECT_DIR$/src/AtcoderContest0916" />
-      <recent name="$PROJECT_DIR$/src/AtcoderContest0908" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="atcoder" />
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="AtcoderContest0929" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/leetcode/leetcodeContest0930" />
+      <recent name="$PROJECT_DIR$/src/AtcoderContest0929" />
+      <recent name="$PROJECT_DIR$/src/Contest103" />
+      <recent name="$PROJECT_DIR$/src/Contest102" />
+      <recent name="$PROJECT_DIR$/src/AtcoderContest0916" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -251,7 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test3">
+  <component name="RunManager" selected="Application.test1 (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -270,6 +382,25 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="AtcoderContest0908.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="AtcoderContest0908.test1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
       <envs />
     </configuration>
     <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -299,25 +430,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="AtcoderContest0929.test2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-    </configuration>
-    <configuration name="test3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Contest102.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Contest102.test3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -428,19 +540,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.test3 (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.test1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.test2 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.test3" />
-      <item index="4" class="java.lang.String" itemvalue="Application.test32" />
+      <item index="0" class="java.lang.String" itemvalue="Application.test1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.test2 (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.test3" />
+      <item index="3" class="java.lang.String" itemvalue="Application.test32" />
+      <item index="4" class="java.lang.String" itemvalue="Application.test1 (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.test3" />
-        <item index="1" class="java.lang.String" itemvalue="Application.test32" />
-        <item index="2" class="java.lang.String" itemvalue="Application.test2 (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.test1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.test3 (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.test1 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.test3" />
+        <item index="2" class="java.lang.String" itemvalue="Application.test32" />
+        <item index="3" class="java.lang.String" itemvalue="Application.test2 (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -471,11 +583,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33062000" />
+    <option name="totallyTimeSpent" value="38068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -490,8 +601,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2609047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2609047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -499,11 +611,31 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2609047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -548,360 +680,412 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Contest102/test2.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest98/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest98/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest98/test4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest102/test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest103/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest103/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="22" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest103/test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest103/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest98/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest103/test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0908/test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest98/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0908/test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="25" selection-start-column="2" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0908/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="29" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0908/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0908/test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0916/AtcoderContest0908/test2.java" />
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0916/AtcoderContest0908/test3.java" />
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0916/AtcoderContest0908/test4.java" />
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0916/AtcoderContest0908/test1.java" />
-    <entry file="file://$PROJECT_DIR$/src/Contest102/test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest102/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0901/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0901/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0901/test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0901/test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0908/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0908/test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0908/test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest98/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest98/test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0908/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest98/test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest98/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest102/test2.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest98/test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest98/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest102/test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest103/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest103/test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest102/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest103/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="22" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest103/test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contest103/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0929/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0929/test32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input.txt">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest102/test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0929/test3.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest102/test3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="true" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest102/test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest102/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest103/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest103/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest103/test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="true" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0729/test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0805/test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="true" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0812/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0902/test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodeContest0902/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompanyContest/google2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompanyContest/google1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompanyContest/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompanyContest/indeed1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompanyContest/indeed2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompanyContest/indeed3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0721/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0721/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0721/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0805/test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0901/test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0929/test4.java">
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtcoderContest0929/test2.java">
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0908/test4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="87">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode.iml">
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="12">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atcoder/AtcoderContest0929/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>

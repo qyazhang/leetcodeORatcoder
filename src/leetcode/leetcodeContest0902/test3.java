@@ -1,4 +1,4 @@
-package leetcodeContest0902;
+package leetcode.leetcodeContest0902;
 
 import java.util.Arrays;
 import java.util.HashSet;

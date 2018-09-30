@@ -1,3 +1,5 @@
+package CompanyContest;
+
 import java.util.Stack;
 
 public class indeed3 {

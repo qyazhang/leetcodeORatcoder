@@ -1,7 +1,4 @@
-package leetcodeContest0805;
-
-import java.util.ArrayList;
-import java.util.Arrays;
+package leetcode.leetcodeContest0805;
 
 public class test3 {
 
