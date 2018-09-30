@@ -1,9 +1,12 @@
 
-package Contest102;
+package leetcode.leetcodeContest102;
 
 public class TreeNode {
   int val;
   TreeNode left;
   TreeNode right;
-  TreeNode(int x) { val = x; }
+
+  TreeNode(int x) {
+    val = x;
+  }
 }

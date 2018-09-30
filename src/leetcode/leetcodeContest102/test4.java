@@ -1,5 +1,5 @@
 
-package Contest102;
+package leetcode.leetcodeContest102;
 
 import java.util.Arrays;
 
@@ -9,18 +9,18 @@ public class test4 {
     int sum = 0;
     int mod = 1000000007;
     Arrays.sort(A);
-    for (int i=0;i<A.length-1;i++){
-      for (int j=i+1;j<A.length;j++){
+    for (int i = 0; i < A.length - 1; i++) {
+      for (int j = i + 1; j < A.length; j++) {
 
         int numA = A[i];
         int numB = A[j];
         long diff = Math.abs(numA - numB);
 
-        long tempSum = diff*(long)(Math.pow(2, j-i-1)%mod);
-        tempSum = tempSum%mod;
+        long tempSum = diff * (long) (Math.pow(2, j - i - 1) % mod);
+        tempSum = tempSum % mod;
         long sumT = (sum + tempSum);
-        sumT = sumT%mod;
-        sum = (int)sumT;
+        sumT = sumT % mod;
+        sum = (int) sumT;
 
       }
     }

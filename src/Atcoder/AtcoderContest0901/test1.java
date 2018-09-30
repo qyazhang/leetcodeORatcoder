@@ -1,5 +1,5 @@
 
-package AtcoderContest0901;
+package Atcoder.AtcoderContest0901;
 
 
 import java.io.FileNotFoundException;

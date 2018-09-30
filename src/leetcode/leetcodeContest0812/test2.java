@@ -1,6 +1,4 @@
-package leetcodeContest0812;
-
-import java.util.Arrays;
+package leetcode.leetcodeContest0812;
 
 public class test2 {
     public static void main(String[] args) {

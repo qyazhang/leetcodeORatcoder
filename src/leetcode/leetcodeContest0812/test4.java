@@ -1,4 +1,4 @@
-package leetcodeContest0812;
+package leetcode.leetcodeContest0812;
 
 public class test4 {
 

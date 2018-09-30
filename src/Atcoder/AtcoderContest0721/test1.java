@@ -1,4 +1,4 @@
-package AtcoderContest0721;
+package Atcoder.AtcoderContest0721;
 
 import java.util.Scanner;
 
