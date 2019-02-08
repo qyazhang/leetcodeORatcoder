@@ -13,7 +13,7 @@ public class ValidateBinarySearchTree {
   }
 
   public boolean isValidBST(TreeNode root) {
-
+    //Here use long for
     return dfsJudge(root, Long.MIN_VALUE, Long.MIN_VALUE);
 
   }
