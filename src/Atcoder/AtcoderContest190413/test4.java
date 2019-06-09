@@ -1,4 +1,4 @@
-package Atcoder.AtcoderContest190413.AtcoderContest190304;
+package Atcoder.AtcoderContest190413;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
